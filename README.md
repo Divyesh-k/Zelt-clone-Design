@@ -40,6 +40,6 @@ The code should be well-commented and easy to understand. Modify the JavaScript 
 
 ## Additional Information
 
-* **License:** A license file (e.g., `LICENSE`) specifying the terms of use (e.g., MIT License) should be included in the project.
+* **License:** `MIT` License
 * **Author:** Credit the creator(s) of the project (e.g., Created by Divyesh-Kakadiya).
 
